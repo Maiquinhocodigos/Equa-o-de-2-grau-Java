@@ -1,4 +1,4 @@
-# Equa-o-de-2-grau-Java
+# Equacao-de-2-grau-Java
 
 Programa simples criado em Java somente para meu aprendizado e treino com a linguagem.
 
